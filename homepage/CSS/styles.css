@@ -1,0 +1,50 @@
+html {
+    box-sizing: border-box;
+}
+
+.header {
+    color: rgb(255, 153, 0);
+    font-size: 40px;
+    text-shadow: 2px 3px 10px rgb(238, 12, 12);
+    text-align: center;
+}
+
+.survival {
+    color: hsl(120, 97%, 25%)
+}
+
+.nowaGra {
+    text-align: center;
+}
+
+.fontButton {
+    text-align: center;
+}
+
+.imagePosition {
+    text-align: center;
+}
+
+.content {
+    background-color: rgb(43, 36, 36);
+    max-width: 800px;
+    text-align: justify;
+    color: #ddd;
+    margin: 0px auto;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    line-height: 1.5;
+    padding: 2%;
+}
+
+.contentGothic {
+    background-color: rgb(43, 36, 36);
+    max-width: 800px;
+    text-align: justify;
+    color: #ccc;
+    margin: auto;
+    font-size: 15px;
+    font-family: 'Sedgwick Ave', cursive;
+    line-height: 2;
+    padding: 2%;
+}

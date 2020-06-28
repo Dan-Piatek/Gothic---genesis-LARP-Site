@@ -1,0 +1,37 @@
+.section {
+    box-shadow: 2px 2px 5px #333;
+}
+
+.section__list {
+    padding-left: 20px;
+    margin: 10px;
+}
+
+.section__listItem {
+    margin-top: 10px;
+}
+
+.section__paragraphQuote {
+    font-style: italic;
+    color: #cccccc;
+    padding: 0px 8%;
+}
+
+.section__paragraphQuote--author {
+    text-align: right;
+    font-style: italic;
+}
+
+.section__header {
+    font-size: 25px;
+    color: rgb(255, 153, 0);
+    text-align: center;
+    text-shadow: 2px 3px 10px rgb(238, 12, 12)
+}
+
+.section__subheader {
+    font-size: 18px;
+    text-align: center;
+    color: rgb(255, 187, 0);
+    text-shadow: 2px 3px 10px rgb(238, 12, 12)
+}

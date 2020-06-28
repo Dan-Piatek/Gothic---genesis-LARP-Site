@@ -1,0 +1,25 @@
+.nav__list {
+    text-align: center;
+    list-style-type: none;
+}
+
+.nav__link {
+    color: hsl(36, 100%, 30%);
+    font-size: 25px;
+    text-shadow: 2px 3px 10px hsl(0, 90%, 40%);
+    text-decoration: none;
+}
+
+.nav__link:visited {
+    color: hsl(36, 100%, 25%);
+}
+
+.nav__link:hover {
+    color: hsl(36, 100%, 20%);
+    outline: none;
+    border-bottom: 1px solid;
+}
+
+.nav__link:active {
+    color: hsl(36, 100%, 15%);
+}
