@@ -1,15 +1,19 @@
 # Gothic-Genesis-LARP-Site
-## Nawigacja
-## O Larpie
-Omówienie założeń imprezy i wstpen e przedstaiwenie jej klimatu
-## Wstęp fabularny
-Wstęp fabularny jest przedstawiony w formie wspomnień i opowieści uczestników wydarzeń, które odbędą się podczas gry. 
-## Wakaty
-Wakaty, to omówienie postaci jakie są do wybory dla garczy, które są przygotowane przez organizatorów i korespondują z założeniami gry oraz przygotywaną fabułą. 
-## Mechanika
-Omówienie zasad, jakie ozwolą graczom na lepsze odgrywanie elementów gry, które nie mogą być traktowane zgodnie z koncepcją WYSYWIG. 
-### Magia
-Osobno omowiono magię, bo ta mechanika jest bardziej gamistyczna. 
+## Content
+### Navigation
+### About LARP
+General describtion of the event.
+### Fiction introduction
+An instroduction is written as a memories of people who was a witness of the story which will have place during the game.
+### Characters and heroes - vacancies
+Vacancies, this is a discussion of the characters to choose for the hand, which are prepared by the organizers and correspond with the assumptions of the game and the plot prepared.
+### Mechanics and rules
+Discussion of the rules that will allow players to better play elements of the game that cannot be treated in accordance with the WYSYWIG concept.
+#### Magia
+Magic is discussed separately, because this mechanics is more gamistic.
 
 ## JavaScript
-W ramach strony JS jest użyty do dwóch funkcjonalności. Pierwsz a znich to przycisk otwierający fomrularz zgłoszeniowy, który po kliknięciu zmienia ikonkę na aktywną z widoku w menu z gry Gothic 1. Druga zaś zmienia czcionkę na bardziej  "klimatyczną' względem klasycznej. 
+As part of the page JS is used for two functionalities. The first one is the button opening the entry form, which after clicking changes the icon to active from the view in the menu from the game Gothic 1. The second changes the font to a more "atmospheric" relative to the classic.
+
+## BEM Convention
+The site was written based on the BEM convention.
