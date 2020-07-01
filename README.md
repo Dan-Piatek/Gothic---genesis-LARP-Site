@@ -12,3 +12,4 @@ Omówienie zasad, jakie ozwolą graczom na lepsze odgrywanie elementów gry, kt�
 Osobno omowiono magię, bo ta mechanika jest bardziej gamistyczna. 
 
 ## JavaScript
+W ramach strony JS jest użyty do dwóch funkcjonalności. Pierwsz a znich to przycisk otwierający fomrularz zgłoszeniowy, który po kliknięciu zmienia ikonkę na aktywną z widoku w menu z gry Gothic 1. Druga zaś zmienia czcionkę na bardziej  "klimatyczną' względem klasycznej. 
