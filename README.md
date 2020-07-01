@@ -9,7 +9,7 @@ An instroduction is written as a memories of people who was a witness of the sto
 Vacancies, this is a discussion of the characters to choose for the hand, which are prepared by the organizers and correspond with the assumptions of the game and the plot prepared.
 ### Mechanics and rules
 Discussion of the rules that will allow players to better play elements of the game that cannot be treated in accordance with the WYSYWIG concept.
-#### Magia
+#### Magic
 Magic is discussed separately, because this mechanics is more gamistic.
 
 ## JavaScript
